@@ -1,0 +1,12 @@
+.title{
+    margin: 10px;
+}
+
+.dropdown-link {
+    display: flex;
+    text-decoration: none;
+}
+
+.dropdowns {
+    margin: 10px;
+}
